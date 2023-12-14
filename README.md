@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e))](https://rishavchanda.io)
+![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 
 <h1 align="center">Hi 👋, I'm Mohit Gupta</h1>
@@ -10,8 +10,6 @@
 - 💬 Ask me about **MERN Stack , Data Structures and Algorithms, OOPS**
 
 - 📫 How to reach me **mg550286@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/16zcvvHHbVxEtdVkZ0SXXEptbut6M1kIn/view?usp=sharing](https://drive.google.com/file/d/16zcvvHHbVxEtdVkZ0SXXEptbut6M1kIn/view?usp=sharing)
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
