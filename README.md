@@ -7,11 +7,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 🌱 I’m currently learning **Socket.io**
-- 
+
 - 💬 Ask me about **MERN Stack , Data Structures and Algorithms
-- 
+  
 - 📫 How to reach me **mg550286@gmail.com**
-- 
+  
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
 <h3 align="left">Connect with me:</h3>
