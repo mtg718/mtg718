@@ -12,7 +12,7 @@
   
 - 📫 How to reach me **mg550286@gmail.com**
   
-- ⚡ Fun fact **It’s all 0’s and 1’s**
+- ⚡ Fun fact **Why do Java developers wear glasses? Because they can’t C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
